@@ -1,0 +1,7 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+langchain-community
+langchain-chroma
+transformers
