@@ -1,0 +1,12 @@
+langgraph
+numpy
+pandas
+ipykernel
+langchain
+ipython
+langchain_community
+dotenv
+typing
+chromadb
+langchain_chroma
+huggingface_hub

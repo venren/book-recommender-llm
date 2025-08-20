@@ -1,3 +1,5 @@
 *.ipynb_checkpoints*
-vevn/
+venv/
+.venv
 books_cleaned.csv
+.env
